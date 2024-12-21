@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Anel
-
-=======
-change test
->>>>>>> 2184cd7 (Update test.txt)
